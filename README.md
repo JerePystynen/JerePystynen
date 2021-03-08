@@ -9,4 +9,4 @@
 - 👯 I’m looking to collaborate on Unity projects if you want to. 😎
 - 📫 How to reach me: check my youtube (when i've finished making it) or just hmu me with an email
 - 😄 Pronouns: Hän ('He' in Finnish)
-- ⚡ Fun fact: I like building robots and anime
+- ⚡ Fun fact: I like building robots and watching anime
