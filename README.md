@@ -1,6 +1,4 @@
-### ####_ Initializing profile (90%)
-
-Well hi there!
+### Well hello there!
 
 My name's Jere and this is my GitHub profile.
 
