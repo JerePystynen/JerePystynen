@@ -1,6 +1,30 @@
-### Heipä hei heissuli vei!
+                 '
+            *          .
+                   *       '
+              *                *
 
-My name's Jere and I'm a software developing kid.
+Hello and welcome to my profile.
+I like game and web development.
 
-- I’m currently working in my own website-drone-photography company.🔥💯
-- ⚡ Fun fact: I like building robots and watching animei
+
+   *   '*
+           *
+                *
+                       *
+               *
+                     *
+
+         .                      .
+         .                      ;
+         :                  - --+- -
+         !           .          !
+         |        .             .
+         |_         +
+      ,  | `.
+--- --+-<#>-+- ---  --  -
+      `._|_,'
+         T
+         |
+         !
+         :         . : 
+         .       *
