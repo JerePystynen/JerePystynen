@@ -1,5 +1,6 @@
-Yo welcome to my profile. I code and brew 🍲 memes. Come, and have a seat!
+<h1>Ka-Chow and welcome to my profile!</h1>
+<h2>I code and 🍲 memes. Come, and have a seat!</h2>
 
-I have much of the stuff I've made separately on my company's profile so go check that out 😎.
+<p>I have some stuff here and separately on my company's profile so check those out 😎</p>
 
-I use Arch btw.
+<p>Oh, and I use Arch btw.</p>
