@@ -3,4 +3,6 @@
 
 <p>I have some stuff here and separately on my company's profile so check those out 😎</p>
 
+[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ "Everything Is AWESOME")
+
 <p>Oh, and I use Arch btw.</p>
