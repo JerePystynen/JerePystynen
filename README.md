@@ -3,6 +3,6 @@
 
 <p>I have some stuff here and separately on my company's profile so check those out 😎</p>
 
-[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ "Everything Is AWESOME")
+[![Never gonna give your code up](https://variety.com/wp-content/uploads/2021/07/Rick-Astley-Never-Gonna-Give-You-Up.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ "Never gonna give your code up")
 
 <p>Oh, and I use Arch btw.</p>
